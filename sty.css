@@ -1,0 +1,31 @@
+html
+{
+    background-color: black;
+}
+#container
+{
+    background: url(./big-buck-bunny.webp) no-repeat;
+    /* background-color: black; */
+    /* background-color:blue; */
+    width: 1000px;
+    height: 700px;
+    position: relative;
+    left: 260px;
+}
+#sub
+{
+    /* background-color: black; */
+    background: url(./MV5BY2JiOGU3YjItMGZhMC00OWE3LWFjZDYtZGE0MGIxZTQyYjM2XkEyXkFqcGdeQXVyMTEyNzE2Nzk4._V1_.jpg) no-repeat;
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+video
+{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    width: 600px;
+}
